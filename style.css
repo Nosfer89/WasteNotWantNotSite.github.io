@@ -74,7 +74,7 @@ nav a{
 header{
     height: 520px;
 
-    background: url("/Images/pollutedForest.jpg");
+    background: url(Images/pollutedForest.jpg);
     background-position:center ;
     background-size:cover ;
     padding-top:130px;
@@ -151,7 +151,7 @@ article ol h1{
     padding: 20px 20px;
 }
 #wp-s{
-    background: url("/Images/wp2.jpeg");
+    background: url(Images/wp2.jpeg);
 }
 #wd{
     width:100px;
@@ -163,7 +163,7 @@ article ol h1{
     float: right;
 }
 #ap-s{
-    background: url("/Images/airpollution.jpeg");
+    background: url(Images/airpollution.jpeg);
     height:400px;
     display:flex;
     align-items:flex-end;
@@ -175,7 +175,7 @@ article ol h1{
     margin-bottom:40px;
 }
 #sp-s{
-    background: url("/Images/soilpollution.jpeg");
+    background: url(Images/soilpollution.jpeg);
     height:300px;
 }
 #sp-s p{
@@ -189,7 +189,7 @@ article ol h1{
     border-radius: 0px 0px 80% 0px;
 }
 #np-s{
-    background: url("/Images/noise.jpeg");
+    background: url(Images/noise.jpeg);
     background-position: center;
     background-size: cover;
     height:300px;
